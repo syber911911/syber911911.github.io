@@ -10,10 +10,11 @@
 ############################
 
 # Name of website
-title: "Heejun's blog"
+title: Heejun's blog
 
 # Your name to show in the footer
-author: "Heejun Lee"
+author: 이희준
+author-img: IMG_2736.JPG
 
 baseurl: ""
 url: "https://syber911911.github.io"
